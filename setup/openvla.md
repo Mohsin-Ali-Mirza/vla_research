@@ -97,4 +97,4 @@ from libero.libero import benchmark
 from libero import benchmark
 ```
 
-For Official Documentation refer to https://github.com/unitreerobotics/unifolm-vla
+For Official Documentation refer to https://github.com/openvla/openvla
