@@ -88,3 +88,5 @@ export CMAKE_POLICY_VERSION_MINIMUM=3.5
 uv pip install -e ".[libero, smolvla]"
 
 ```
+
+For Official Documentation visit https://huggingface.co/docs/lerobot/en/smolvla
